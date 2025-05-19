@@ -27,3 +27,6 @@
 | [Self-supervising ffne-grained region similarities for large-scale image localization](https://arxiv.org/pdf/2006.03926) | Yixiao Ge | ECCV 2020 | [Github](https://github.com/yxgeee/SFRS) | [BibTex](citations/ge2020self.txt) |
 | [FAB-MAP+ RatSLAM: Appearance-based SLAM for multiple times of day](https://ieeexplore.ieee.org/abstract/document/5509547) | AJ Glover | ICRA 2010 |  | [BibTex](citations/glover2010fab.txt) |
 | [The perfect match: 3d point cloud matching with smoothed densities](https://openaccess.thecvf.com/content_CVPR_2019/html/Gojcic_The_Perfect_Match_3D_Point_Cloud_Matching_With_Smoothed_Densities_CVPR_2019_paper.html) | Zan Gojcic | CVPR 2019 | [Github](https://github.com/zgojcic/3DSmoothNet) | [BibTex](citations/gojcic2019perfect.txt) |
+| [Salsa: Swift adaptive lightweight self-attention for enhanced lidar place recognition](https://ieeexplore.ieee.org/abstract/document/10629049) | Raktim Gautam Goswami | RAL 2024 | [Github](https://github.com/raktimgg/SALSA) | [BibTex](citations/goswami2024salsa.txt) |
+| [Indoor localization improved by spatial context—A survey](https://dl.acm.org/doi/abs/10.1145/3322241) | Fuqiang Gu | ACM Computing Surveys | [Github](https://github.com/raktimgg/SALSA) | [BibTex](citations/gu2019indoor.txt) |
+
