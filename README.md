@@ -1,5 +1,5 @@
-# Place Recognition Meets Autonomous Driving
-
+# <center>Place Recognition Meets Autonomous Driving</center>
+  
 ## Abstract
 Place recognition serves as a cornerstone of vehicle navigation and mapping, enabling systems to determine whether a location has been previously visited. This capability is critical for:
 - Loop closure in Simultaneous Localization and Mapping (SLAM)
