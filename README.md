@@ -1,4 +1,72 @@
-# Place-Recognition-Meets-Autonomous-Driving
+# Place Recognition Meets Autonomous Driving
+
+## Abstract
+Place recognition serves as a cornerstone of vehicle navigation and mapping, enabling systems to determine whether a location has been previously visited. This capability is critical for:
+- Loop closure in Simultaneous Localization and Mapping (SLAM)
+- Long-term navigation under varying environmental conditions
+
+## Survey Overview
+This paper provides a comprehensive review of recent advancements in place recognition, focusing on three key methodological paradigms:
+
+1. **CNN-based Approaches**  
+2. **Transformer-based Frameworks**  
+3. **Cross-modal Strategies**  
+
+## 1. Introduction
+### Significance in Autonomous Systems
+Place recognition plays a pivotal role in:
+- Autonomous vehicle navigation
+- Large-scale environment mapping
+- Robust localization under changing conditions
+
+## 2. Methodological Evolution
+
+### 2.1 CNN-based Approaches
+**Key Contributions:**
+- Robust visual descriptor learning
+- Scalability in large-scale environments
+- Evolution from traditional features to deep learning
+
+### 2.2 Transformer-based Models
+**Advancements:**
+- Self-attention mechanisms capturing global dependencies
+- Improved generalization across diverse scenes
+- Handling of long-range spatial relationships
+
+### 2.3 Cross-modal Strategies
+**Innovations:**
+- Integration of heterogeneous data sources:
+  - Lidar point clouds
+  - Visual information
+  - Text descriptions
+- Enhanced resilience to:
+  - Viewpoint variations
+  - Illumination changes
+  - Seasonal transitions
+
+## 3. Challenges & Future Directions
+
+### Current Research Challenges
+- Domain adaptation across environments
+- Real-time performance requirements
+- Lifelong learning capabilities
+
+### Prospective Research Directions
+1. **Adaptive Systems**  
+   - Cross-domain generalization
+   - Continuous learning frameworks
+
+2. **Efficiency Optimization**  
+   - Computational efficiency improvements
+   - Memory-constrained implementations
+
+3. **Advanced Fusion Techniques**  
+   - Multi-modal integration
+   - Temporal consistency methods
+     
+## 4. All the methods are listed below:
+
+
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
